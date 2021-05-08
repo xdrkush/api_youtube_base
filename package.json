@@ -1,0 +1,19 @@
+{
+  "name": "youtube",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "drk",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/local-auth": "^1.0.1",
+    "axios": "^0.21.1",
+    "dotenv": "^9.0.0",
+    "google-auth-library": "^7.0.4",
+    "googleapis": "^73.0.0",
+    "request": "^2.88.2"
+  }
+}
